@@ -1,4 +1,5 @@
-Project preview: (Site size: 3,6 MB)
+Project preview: 
+(Site size: 3,6 MB)
 
 ![Zrzut ekranu 2022-07-21 o 12 31 35](https://user-images.githubusercontent.com/94636710/180194594-e6932f60-46e7-4f82-b0c2-77567a6b9e0d.png)
 ---------
